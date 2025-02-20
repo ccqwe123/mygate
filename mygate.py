@@ -8,7 +8,7 @@ import hashlib
 import cloudscraper
 from loguru import logger
 
-TOKEN_FILE = "tokens.txt"
+TOKEN_FILE = "token.txt"
 BASE_URL = "https://api.mygate.network/api/front"
 WS_URL = "wss://api.mygate.network/socket.io/"
 SECRET_KEY = "|8S%QN9v&/J^Za"
