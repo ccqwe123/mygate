@@ -1,0 +1,5 @@
+cloudscraper
+aiohttp
+asyncio
+hashlib
+logger
